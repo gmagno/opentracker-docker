@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RPCS3
+Comment=PS3 Emulator
+Exec=~/Games/RPCS3/rpcs3-v0.0.3-2017-08-01-02845f5-7475_linux64.AppImage %F
+Type=Application
+Icon=~/.customicons/RPCS3/rpcs3.svg
+Categories=Game;
+MimeType=application/x-iso9660-appimage;
